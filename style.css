@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+}
+h1 { 
+    text-align: center; 
+    margin-top: 100px; 
+    color: darkcyan;
+} 
+ 
+div { 
+    text-align: center; 
+    margin-top: 20px; 
+} 
+ 
+.city { 
+    padding: 10px; 
+    border-radius: 5px;
+    border: 1px solid royalblue;  
+    background-color:powderblue;
+    color: grey;
+} 
+.city::placeholder{
+    color: grey;
+}
+.button { 
+    padding: 10px; 
+    border-radius: 5px; 
+    background-color: cornflowerblue; 
+    color: white; 
+} 
+ 
+.button:hover { 
+    background-color: cornflowerblue; 
+} 
+
+.btn { 
+    padding: 10px; 
+    border-radius: 5px; 
+    background-color: cornflowerblue; 
+    color: white; 
+} 
+ 
+.btn:hover { 
+    background-color: cornflowerblue; 
+} 
+ 
+.res { 
+    margin-top: 20px; 
+    text-align: center;
+    color: green; 
+}
+
+.ser { 
+    margin-top: 20px; 
+    text-align: center; 
+    color: green; 
+}
